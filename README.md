@@ -1,4 +1,5 @@
-<img width="250" align="right" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">
+<img width="250" align="right" src="https://tenor.com/view/kitty-highkitten-mdmacat-cat-happykitty-gif-6198981
+">
 
 <h3 align="center">
   Hi there, Ahmad Gouda
