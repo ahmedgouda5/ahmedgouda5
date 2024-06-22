@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://tenor.com/view/kitty-highkitten-mdmacat-cat-happykitty-gif-6198981
+<img width="250" align="right" src="https://media1.tenor.com/images/f6fe8d1d0463f4e51b6367bbecf56a3e/tenor.gif?itemid=6198981
 ">
 
 <h3 align="center">
