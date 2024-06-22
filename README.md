@@ -8,7 +8,7 @@
 
 <!-- Typing SVG (Optional - Customize the text below) -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ahmed+gouda;Frontend+developer;No+risk+no+fine" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ahmed+gouda;Frontend+developer;No+risk+no+fine" alt="Typing SVG" /></a>
 </p>
 
 ### 🚀 About Me
