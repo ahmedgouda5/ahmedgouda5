@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🤔 I'm currently seeking to deepen my understanding of advanced machine learning algorithms and their practical applications.
+- 🤔 I'm currently seeking to deepen my understanding of advanced frontend and web and their practical applications.
 - 💬 Ask me about my experience wit javascrtipt ,react ,typescript Engineering to Software Development!
 - ⚡ Fun fact: I'm passionate about football tactics and data-driven scouting - I love exploring how data can enhance the beautiful game!
 
