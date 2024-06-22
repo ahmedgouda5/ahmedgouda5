@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://tenor.com/view/meme-gif-21111852">
+<img width="250" align="right" src="https://tenor.com/bAKjU.gif">
 
 <h3 align="center">
   Hi there, Ahmad Gouda
