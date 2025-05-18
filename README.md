@@ -2,9 +2,9 @@
 
 
 <h3 align="center">
-  Hi there, Ahmad Gouda </br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi there, Ahmad Gouda
 </h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <!-- Typing SVG (Optional - Customize the text below) -->
 <p align="center">
