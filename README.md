@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  Hi there, Ahmad Gouda
+  Hi there, Ahmad Gouda </br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
