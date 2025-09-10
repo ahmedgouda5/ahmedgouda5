@@ -1,10 +1,17 @@
-<img width="250" align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="welcome-gif" />
+<table>
+  <tr>
+    <td>
+      <h3>
+        Hi there, Ahmad Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+      </h3>
+    </td>
+    <td>
+      <img width="200" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="welcome-gif" />
+    </td>
+  </tr>
+</table>
 
 ---
-
-<h3 align="center">
-  Hi there, Ahmad Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h3>
 
 <!-- Typing SVG -->
 <p align="center">
