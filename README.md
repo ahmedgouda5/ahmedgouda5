@@ -1,14 +1,18 @@
 <img width="250" align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="welcome-gif" />
 
-<h2 align="center">
-  Hi there, I'm Ahmed Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h2>
+---
 
+<h3 align="center">
+  Hi there, Ahmad Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+</h3>
+
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Frontend+Engineer;React.js+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ahmed+Gouda;Frontend+Developer;No+risk+no+fun" alt="Typing SVG" />
   </a>
 </p>
+
 
 ---
 
