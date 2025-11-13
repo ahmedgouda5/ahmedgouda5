@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">
-  Hi there, Ahmad Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  Hi there, I'm Ahmed Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h3>
 
 <!-- Typing SVG -->
@@ -13,27 +13,41 @@
   </a>
 </p>
 
+---
 
+## 🧑‍💻 About Me  
+I'm a **Frontend Developer** specialized in **React.js** and **Next.js**, passionate about creating modern, responsive, and high-performance web applications.  
+Proficient in turning UI/UX ideas into dynamic interfaces with clean, modular code. I enjoy solving challenges, collaborating in teams, and constantly learning new technologies.
 
+- 🌱 Currently deepening my knowledge of **advanced frontend technologies**.  
+- 💬 Ask me about my transition from **Engineering → Software Development** and my projects with **React, Next.js, and Prisma**.  
+- ⚽ Fun fact: I love **football tactics & data-driven scouting**.
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently deepening my knowledge of advanced **frontend technologies**.  
-- 💬 Ask me about my journey from **Engineering → Software Development** and my projects with **React, Next.js, and Prisma**.  
-- ⚽ Fun fact: I love **football tactics & data-driven scouting**.  
+## 🧩 Experience
+
+**Tech Cell — Frontend Developer Intern** *(05/2025 – 06/2025 | Remote)*  
+- Developed 5+ responsive React components reused across internal projects, improving consistency and reducing development time.  
+- Enhanced project structure by implementing modular code, reducing bug frequency by 15% during testing.
+
+**Mindset Training — Frontend Developer Intern** *(08/2024 – 10/2024 | Remote)*  
+- Collaborated with a team of 4 developers to deliver 3 React.js projects focused on performance and scalability.  
+- Fixed 15+ UI/UX issues, improving load time by 20% and enhancing user experience.
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-gouda-b2a264251/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100027833470339" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-</p>
+## 🚀 Projects
+
+- **🛒 E-Commerce App** – Modern shopping platform with cart, wishlist, and favorites features.  
+  Responsive UI with Tailwind CSS.  
+  👉 [Live Demo](https://ecommerce-psi-beige.vercel.app)
+
+- **📊 Dashboard App** – Finance & sales analysis dashboard with chat, calendar, and email.  
+  👉 [Live Demo](https://dashboard-delta-self-88.vercel.app)
+
+- **🪑 Cartzilla** – Furniture website built with Next.js featuring dynamic categories and smooth UX.  
+  👉 [Live Demo](https://cartzilla-topaz.vercel.app)
 
 ---
 
@@ -43,7 +57,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
@@ -65,9 +79,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education & Courses
+- 🎓 **Bachelor's Degree – Faculty of Agriculture, Suez Canal University (2021–2025)**  
+  Transitioning from a scientific background to a front-end development career through hands-on training and real-world experience.  
 
+- 🎯 **Frontend Development Diploma – Route Academy (2023/11 – 2024/06)**  
+- 📘 **Master Modern React – Jonas Schmedtmann (2024–2025)**
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://portfolio-two-lemon-69.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/a7medgouda/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedgodaiii029@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100027833470339" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedgouda5&show_icons=true&theme=radical&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgouda5&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
+
+---
