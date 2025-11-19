@@ -19,7 +19,7 @@ I'm a **Frontend Developer** specialized in **React.js** and **Next.js**, passio
 Proficient in turning UI/UX ideas into dynamic interfaces with clean, modular code. I enjoy solving challenges, collaborating in teams, and constantly learning new technologies.
 
 - 🌱 Currently deepening my knowledge of **advanced frontend technologies**.  
-- 💬 Ask me about my transition from **Engineering → Software Development** and my projects with **React, Next.js, and Prisma**.  
+- 💬 Ask me about my transition from **Engineering → Software Development** and my projects with **React, Next.js**.  
 - ⚽ Fun fact: I love **football tactics & data-driven scouting**.
 
 ---
