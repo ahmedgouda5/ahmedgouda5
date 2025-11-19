@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="welcome-gif" />
 
 ---
 
