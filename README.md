@@ -26,7 +26,7 @@ Proficient in turning UI/UX ideas into dynamic interfaces with clean, modular co
 
 ## 🧩 Experience
 
-**Tech Cell — Frontend Developer Intern** *(05/2025 – 06/2025 | Remote)*  
+**Huma Vola — Frontend Developer Intern** *(05/2025 – 06/2025 | Remote)*  
 - Developed 5+ responsive React components reused across internal projects, improving consistency and reducing development time.  
 - Enhanced project structure by implementing modular code, reducing bug frequency by 15% during testing.
 
