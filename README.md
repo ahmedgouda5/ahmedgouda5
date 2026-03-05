@@ -1,114 +1,173 @@
-
----
-
 <h3 align="center">
-  Hi there, I'm Ahmed Gouda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+  Hi there, I'm Ahmed Gouda 👋
 </h3>
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ahmed+Gouda;Frontend+Developer;No+risk+no+fun" alt="Typing SVG" 
-  </a>
+  Frontend Developer | React.js & Next.js
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-I'm a **Frontend Developer** specialized in **React.js** and **Next.js**, passionate about creating modern, responsive, and high-performance web applications.  
-Proficient in turning UI/UX ideas into dynamic interfaces with clean, modular code. I enjoy solving challenges, collaborating in teams, and constantly learning new technologies.
+# 👨‍💻 About Me
 
-- 🌱 Currently deepening my knowledge of **advanced frontend technologies**.  
-- 💬 Ask me about my transition from **Engineering → Software Development** and my projects with **React, Next.js**.  
-- ⚽ Fun fact: I love **football tactics & data-driven scouting**.
+I'm a **Frontend Developer specialized in React.js and Next.js**, passionate about building scalable, high-performance web applications and modern user interfaces.
 
----
+I enjoy transforming **complex UI/UX designs into clean, maintainable code** while focusing on performance, responsiveness, and user experience.
 
-## 🧩 Experience
+I also have **backend knowledge with Node.js, Express, and MongoDB**, allowing me to understand and build complete full-stack solutions.
 
-**Huma Vola — Frontend Developer Intern** *(05/2025 – 06/2025 | Remote)*  
-- Developed 5+ responsive React components reused across internal projects, improving consistency and reducing development time.  
-- Enhanced project structure by implementing modular code, reducing bug frequency by 15% during testing.
+⚡ What I focus on:
 
-**Mindset Training — Frontend Developer Intern** *(08/2024 – 10/2024 | Remote)*  
-- Collaborated with a team of 4 developers to deliver 3 React.js projects focused on performance and scalability.  
-- Fixed 15+ UI/UX issues, improving load time by 20% and enhancing user experience.
+- Building scalable React architectures
+- Creating reusable UI components
+- Writing clean, maintainable code
+- Performance optimization
+- Delivering real-world web applications
 
 ---
 
-## 🚀 Projects
+# 💼 Experience
 
-- **🛒 E-Commerce App** – Modern shopping platform with cart, wishlist, and favorites features.  
-  Responsive UI with Tailwind CSS.  
-  👉 [Live Demo](https://ecommerce-psi-beige.vercel.app)
+### Frontend Developer Intern  
+**Huma-volve** | Remote  
+May 2025 – June 2025
 
-- **📊 Dashboard App** – Finance & sales analysis dashboard with chat, calendar, and email.  
-  👉 [Live Demo](https://dashboard-delta-self-88.vercel.app)
-
-- **🪑 Cartzilla** – Furniture website built with Next.js featuring dynamic categories and smooth UX.  
-  👉 [Live Demo](https://cartzilla-topaz.vercel.app)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-**Other Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- Worked on an **E-commerce application using React**
+- Built reusable UI components and product listing pages
+- Implemented cart functionality
+- Built training projects including:
+  - Weather application
+  - ChatGPT-like application
+  - National ID parser
 
 ---
 
-## 🎓 Education & Courses
-- 🎓 **Bachelor's Degree – Faculty of Agriculture, Suez Canal University (2021–2025)**  
-  Transitioning from a scientific background to a front-end development career through hands-on training and real-world experience.  
+### Frontend Developer Intern  
+**Mindset Training** | Remote  
+Aug 2024 – Oct 2024
 
-- 🎯 **Frontend Development Diploma – Route Academy (2023/11 – 2024/06)**  
-- 📘 **Master Modern React – Jonas Schmedtmann (2024–2025)**
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://portfolio-two-lemon-69.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/a7medgouda/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedgodaiii029@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100027833470339" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-</p>
+- Collaborated with a team of developers and designers
+- Used **GitHub workflow (PRs, branching, code reviews)**
+- Improved performance using:
+  - memoization
+  - lazy loading
+  - optimized state management
+- Refactored components to improve scalability
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedgouda5&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgouda5&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
+### Freelance Full-Stack Developer  
+Remote
+
+- Built and delivered **real-world web applications**
+- Worked with **React, Next.js, Node.js, Express, MongoDB**
+- Managed projects from **requirements → deployment**
 
 ---
+
+# 🚀 Projects
+
+### 🧑‍🏫 E-Tutor – LMS
+Learning management system with scalable component architecture.
+
+Features:
+- Community module architecture
+- Dynamic UI
+- API integration
+- Responsive design
+
+Demo  
+https://e-tutor-sooty.vercel.app/ELearn
+
+---
+
+### 🛒 E-Commerce Platform
+
+Modern e-commerce web application built with **React**
+
+Features:
+- Cart system
+- Wishlist
+- Favorites
+- Responsive UI
+- Scalable component structure
+
+Demo  
+https://ecommerce-psi-beige.vercel.app
+
+---
+
+### 🏥 Medifit
+
+Full-stack medical products platform.
+
+Tech:
+Next.js + MongoDB + Clerk Auth
+
+Features:
+- Dynamic products & categories
+- Authentication
+- Responsive UI
+- Full-stack architecture
+
+Demo  
+https://medifit-gamma.vercel.app
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- TailwindCSS
+- shadcn/ui
+- Redux
+- Zustand
+
+### Backend Basics
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Figma
+- Claude Code
+
+---
+
+# 🎓 Education
+
+Bachelor's Degree  
+Faculty of Agriculture – **Suez Canal University**  
+2021 – 2025
+
+---
+
+# 📚 Courses
+
+- Master Modern React – Jonas Schmedtmann
+- Route Academy – Frontend Diploma
+- Node.js, TypeScript, PostgreSQL, Express, Nest.js
+
+---
+
+# 🌍 Connect With Me
+
+Portfolio  
+https://portfolio-two-lemon-69.vercel.app/
+
+LinkedIn  
+https://linkedin.com/in/a7medgouda
+
+GitHub  
+https://github.com/ahmedgouda5
+
+Email  
+ahmedgodaiii029@gmail.com
