@@ -67,19 +67,8 @@ Full-stack medical products platform built with Next.js.
 
 🔗 https://medifit-gamma.vercel.app
 
----
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedgouda5&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgouda5&layout=compact&theme=radical"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
